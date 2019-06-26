@@ -1,0 +1,52 @@
+{
+    "RECORDS": [
+        {
+            "type": "Nomad",
+            "Team": "Attackers",
+            "Unique Gadget": "|name=Airjab Launcher",
+            "Unique Gadget-description": "|description=Nomad’s custom rifle attachment allows her to launch Airjab repulsion grenades. They can explode midair when in close proximity to an enemy or they can stick to a surface and detonate later, again when an enemy is within range. Nomad enters the field with four Airjab grenades. These pushback devices are non-lethal but they disorient those affected. ",
+            "Unique Gadget-说明": "|title1=Repulsion grenades: |value1=4|title2=Activation delay: |value2= 1.5 seconds",
+            "Weapons-Primary": "{AK-74M}{ARX200}",
+            "Weapons-Secondary": "{.44 Mag Semi-Auto}",
+            "Equipment": "{equipments/Claymore}{equipments/Breach Charge}",
+            "Affiliation": "['GIGR']",
+            "Team Rainbow": "[]",
+            "Name": "['Sanaa El Maktoub']",
+            "Birthdate": "['July 27, 1979'] [' (age\\xa039)']",
+            "Birthplace": "[\"Marrakesh, Morocco\"] ",
+            "Height": "['1.71m']",
+            "Weight": "['63kg']",
+            "Released": "['Wind Bastion\\xa0'] ['(2018-12-04)']",
+            "Renown price": "['25,000', '22,500\\xa0', 'Free']",
+            "R6 Credit price": "['600', '540\\xa0']",
+            "Base Stats": "['2'] [2']",
+            "Background": "Brought up in a wealthy Moroccan family, Sanaa El Maktoub travelled considerably at a young age, visiting Europe and North Africa, and dreaming about braving remote regions. She enlisted in the military at 19 and later joined the Groupe d'Intérvention de La Gendarmerie Royale (GIGR) after graduating from the legendary Fortress. She served 4 tours with the Mountain Infantry Battalion and took part in Flintlock exercises and joint missions with Trans-Saharan Counterterrorism Initiative partners. She became her unit’s expert on environmental operations.\n\nBetween tours, she undertakes solo expeditions. El Maktoub is among the few explorers who can cross the Sahara, climb up the Alps, trek through Asia’s rainforests, march along the Arctic Circle… and still return to her unit in operational shape. Rain or shine, desert or polar climates, she can walk through it all. Perceptive and resourceful, she’s an expert survivalist who sketches out her trips in her notebook.",
+            "logourl": "https://liquipedia.net/commons/images/thumb/b/b0/R6S_OperatorIcon_Detailed_Nomad.png/100px-R6S_OperatorIcon_Detailed_Nomad.png",
+            "manurl": "https://liquipedia.net/commons/images/thumb/3/31/Nomad_R6S.png/588px-Nomad_R6S.png"
+        },
+        {
+            "type": "Kaid",
+            "Team": "Attackers",
+            "Unique Gadget": "|name=\"Rtila\" Electroclaw",
+            "Unique Gadget-description": "|description=Kaid’s \"Rtila\" Electroclaw can electrify reinforced walls and hatches, barbed wire, and deployable shields, making it tougher for the enemy to breach the Kasbah and any facility he’s tasked with protecting. He enters the field with three of these throwable gadgets. Once they’ve attached themselves to a surface, they each electrify metallic objects within a 0.75 meter radius.",
+            "Unique Gadget-说明": "|title1=Quantity|value1=2|title2=Range|value2=0.75meters|title3=Damage|value3=??|title4=Activation Delay: |value4= 3 seconds",
+            "Weapons-Primary": "{AUG A3}{TCSG12}",
+            "Weapons-Secondary": "{.44 Mag Semi-Auto}",
+            "Equipment": "{equipments/Barbed Wire}{equipments/Impact Grenade}",
+            "Affiliation": "['GIGR']",
+            "Team Rainbow": "[]",
+            "Name": "['Jalal El Fassi']",
+            "Birthdate": "['June 26, 1960'] [' (age\\xa058)']",
+            "Birthplace": "[' Aroumd, Morocco'] ",
+            "Height": "[]",
+            "Weight": "[]",
+            "Released": "['Wind Bastion\\xa0'] ['( 2018-12-04)']",
+            "Renown price": "['25,000', '22,500\\xa0', 'Free']",
+            "R6 Credit price": "['600', '540\\xa0']",
+            "Base Stats": "['3'] ['1']",
+            "Background": "Jalal El Fassi was raised on stories of the Fortress, the legendary training facility in the Atlas Mountains. Its incomparable reputation, along with its famed “Kaids” (Commander) were seared into El Fassi.\n\nHe joined the GIGR (Royal Moroccan Gendarmerie) at 18, demonstrating natural leadership skills under fire. His ability to effectively command specialized squadrons in joint Trans-Saharan Counterterrorism Initiative (TSCTP) operations led to his promotion as Captain. After years of service, the Fortress’ reigning Commander chose his successor: El Fassi, whose authoritative but ethical style made him a worthy “Kaid”.\n\nHis imposing presence and strict values led to success with his graduates, and the Fortress quickly gained accolades. He further proved its excellence through the thousands of soldiers who trained or taught on its grounds. Over years of negotiating, he welcomed troops from across Africa and the Middle-East, fostering stronger ties between TSCTP members and African Standby Force countries.",
+            "logourl": "https://liquipedia.net/commons/images/thumb/7/70/R6S_OperatorIcon_Detailed_Kaid.png/100px-R6S_OperatorIcon_Detailed_Kaid.png",
+            "manurl": "https://liquipedia.net/commons/images/thumb/f/f1/Kaid_R6S.png/588px-Kaid_R6S.png"
+        }
+    ]
+}
